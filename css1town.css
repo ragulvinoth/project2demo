@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+	font-family: "Poppins", sans-serif
+} 
+
+
+
+.c
+{
+	background-image:url(image1.jpeg);
+	height: 500px;
+	width: 100%;
+	background-size: cover;
+	margin-top:-50px;
+	color: white;
+}
+.parent
+{
+	height: 50px;
+	width: 100%;
+	display: flex;
+	color: white;
+	position: sticky;
+	top:0;
+
+}
+.a 
+{
+	height: 50px;
+	width: 30%;
+	padding-left: 40px;
+}
+.b 
+{
+	height: 50px;
+	width: 70%;
+	padding-right: 10px;
+	
+}
+.b ul
+{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	font-size: 20px;
+}
+.c 
+{
+	padding-top: 200px;
+}
+.child
+{
+	height: 500px;
+	width: 100%;
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.d 
+{
+	height: 500px;
+	width: 40%;
+	background-image: url(image1.jpeg);
+	background-size: cover;
+}
+.e 
+{
+	height: 500px;
+	width: 40%;
+	color: rosybrown;
+}
+.e h1 
+{
+	font-size: 35px;
+	color: blue;
+}
+.e p 
+{
+	font-size: 18px;
+	text-decoration: none;
+	color:rosybrown;
+}
+.e button
+{
+	font-size:25px ;
+	background-color: blue;
+	border-radius:30px;
+	padding: 8px 20px;
+	border-color: white;
+	color: white;
+}
+.childch1
+{
+	height: 500px;
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+}
+.f
+{
+	height: 500px;
+	width: 30%;
+}
+.f i 
+{
+	font-size: 100px;
+	color: blue;
+	margin-top: 100px;
+}
+.l
+{
+	height: 500px;
+	width: 30%;
+	}
+.l i
+{
+	font-size: 100px;
+	color: blue;
+	margin-top: 100px;
+
+}
+.g
+{
+	height: 500px;
+	width: 30%;
+	
+}
+.g i
+{
+	font-size: 100px;
+	color: blue;
+	margin-top: 100px;
+}
+.page3
+{
+	height: 200px;
+	width: 100%;
+}
+.page3 h3
+{
+	color: blue;
+	font-size: 25px;
+	margin-top: 50px;
+}
+.page4
+{
+	height: 600px;
+	width: 100%;
+	display: flex;
+}
+.child5
+{
+	height: 300px;
+	width: 20%;
+	margin-top: 100px;
+}
+ .im1
+{
+	background-image: url(image2.jpeg);
+	background-size: cover;
+}
+.im2
+{
+	background-image: url(town2image.jpg);
+	background-size: cover;
+}
+.im3
+{
+	background-image: url(townimage.jpg);
+	background-size: cover;
+}
+.im4
+{
+	background-image: url(london.jpg);
+	background-size: cover;
+}
+.im5
+{
+	background-image: url(rose.jpg);
+	background-size: cover;
+}
+.page5
+{
+	height: 600px;
+	width: 100%;
+	background-image: url(london.jpg);
+	background-size: cover;
+	margin-top: -20px;
+	color: white;
+
+}
+.page5 h1  
+{
+	font-size:50px;
+	margin-left: 50px;
+}
+.page5 h4
+{
+	font-size: 25px;
+	margin-left: 50px;
+}
+.page6
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.j
+{
+	height: 300px;
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: 40px;
+}
+
+.k
+{
+	height: 300px;
+	width: 40%;
+	font-size: 40px;
+}
+.k p
+{
+	padding-right: 100px;
+}
+.k button
+{
+	font-size:25px ;
+	background-color: blue;
+	border-radius:30px;
+	padding: 8px 20px;
+	border-color: white;
+	color: white;
+}
+p 
+{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
